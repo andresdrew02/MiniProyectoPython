@@ -27,35 +27,26 @@ Instalación de Requisitos
 
 Para instalar los requisitos, asegúrate de tener pip instalado y ejecuta:
 
-bash
-
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Esto instalará las dependencias necesarias para el proyecto.
 Clonación del Repositorio y Ejecución del Programa
 
 Para utilizar el sistema de cálculo de costes de envío:
 
-    Clona el repositorio a tu máquina local:
+Clona el repositorio a tu máquina local:
 
-    bash
-
-git clone https://github.com/andresdrew02/MiniProyectoPython.git
+    git clone https://github.com/andresdrew02/MiniProyectoPython.git
 
 Accede al directorio del repositorio:
 
-bash
-
-cd MiniProyectoPython
+    cd MiniProyectoPython
 
 Ejecuta el programa principal:
-
-bash
 
     python main.py
 
 Sigue las instrucciones proporcionadas para ingresar los datos del paquete y del cliente.
-
 Contribuciones
 
 ¡Estamos abiertos a contribuciones!
