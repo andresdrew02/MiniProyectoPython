@@ -1,6 +1,6 @@
-SolucionesAzarquiel - Sistema de Cálculo de Costes de Envío
+# SolucionesAzarquiel - Sistema de Cálculo de Costes de Envío
 
-¡Bienvenido a SolucionesAzarquiel!
+## ¡Bienvenido a SolucionesAzarquiel!
 
 Somos el comité de bienvenida de la empresa y estamos emocionados de contar con tus conocimientos en Python y pruebas de software. Recientemente, nos han contactado desde Amazonas para desarrollar un sistema que calcule los costes de envío de paquetes. Aquí está la información clave proporcionada por el cliente:
 Descripción del Proyecto
@@ -22,48 +22,39 @@ Requisitos del Proyecto
     Crear pruebas TDD (mínimo 6) para validar el código. Incluyendo pruebas que verifiquen su correcto funcionamiento y otras que busquen provocar errores.
     Elaborar un grafo de flujo, calcular la complejidad ciclomática y los caminos independientes. Explicar qué datos son necesarios para recorrer cada camino obtenido.
 
-Uso del Código
-Instalación de Requisitos
+## Uso del Código
+### Instalación de Requisitos
 
 Para instalar los requisitos, asegúrate de tener pip instalado y ejecuta:
 
-bash
-
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Esto instalará las dependencias necesarias para el proyecto.
 Clonación del Repositorio y Ejecución del Programa
 
 Para utilizar el sistema de cálculo de costes de envío:
 
-    Clona el repositorio a tu máquina local:
+Clona el repositorio a tu máquina local:
 
-    bash
-
-git clone https://github.com/andresdrew02/MiniProyectoPython.git
+    git clone https://github.com/andresdrew02/MiniProyectoPython.git
 
 Accede al directorio del repositorio:
 
-bash
-
-cd MiniProyectoPython
+    cd MiniProyectoPython
 
 Ejecuta el programa principal:
-
-bash
 
     python main.py
 
 Sigue las instrucciones proporcionadas para ingresar los datos del paquete y del cliente.
+## Contribuciones
 
-Contribuciones
-
-¡Estamos abiertos a contribuciones!
+## ¡Estamos abiertos a contribuciones!
 
     Si encuentras errores o tienes sugerencias, por favor, abre un issue para discutirlo.
     Para contribuir con mejoras, crea un pull request.
 
-Información Adicional
+## Información Adicional
 
 Recuerda que la calidad es primordial en nuestro código. Nos distinguimos por nuestras pruebas de calidad, así que asegúrate de controlar adecuadamente los posibles errores para mantener nuestra reputación.
 
