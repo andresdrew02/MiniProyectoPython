@@ -23,6 +23,16 @@ Requisitos del Proyecto
     Elaborar un grafo de flujo, calcular la complejidad ciclomática y los caminos independientes. Explicar qué datos son necesarios para recorrer cada camino obtenido.
 
 Uso del Código
+Instalación de Requisitos
+
+Para instalar los requisitos, asegúrate de tener pip instalado y ejecuta:
+
+bash
+
+pip install -r requirements.txt
+
+Esto instalará las dependencias necesarias para el proyecto.
+Clonación del Repositorio y Ejecución del Programa
 
 Para utilizar el sistema de cálculo de costes de envío:
 
@@ -30,9 +40,21 @@ Para utilizar el sistema de cálculo de costes de envío:
 
     bash
 
-    git clone https://github.com/andresdrew02/MiniProyectoPython.git
+git clone https://github.com/andresdrew02/MiniProyectoPython.git
 
-    Ejecuta el programa y sigue las instrucciones proporcionadas para ingresar los datos del paquete y del cliente.
+Accede al directorio del repositorio:
+
+bash
+
+cd MiniProyectoPython
+
+Ejecuta el programa principal:
+
+bash
+
+    python main.py
+
+Sigue las instrucciones proporcionadas para ingresar los datos del paquete y del cliente.
 
 Contribuciones
 
